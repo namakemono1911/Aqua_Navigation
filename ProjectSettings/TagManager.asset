@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mouse
+  - move_floor_point1
+  - move_floor_point2
+  - stageEditor
+  - transer
+  - ui
+  - startObject
+  - goalObject
+  - stage
+  - out_of_display
+  - stageDelete
+  - kassya_left
+  - kassya_right
+  - doro
+  - stage_kassya
+  - kassya_baketu
+  - ballInstanceSpace
+  - playCanvas
+  - stopCanvas
+  - escapeCanvas
+  - stage_swap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - kassya
+  - stageEditor
+  - PlayereObject
+  - passWater
+  - waterOrigin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - suisya_dodai
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: stage
+    uniqueID: 2231263669
+    locked: 0
